@@ -30,6 +30,9 @@
 header{
   background-color: #FFF8F3;
   padding-top: 50px;
+  background: url(./images/developer.png),url(./images/header_bg.png);
+  background-position: top left,bottom right;
+  background-repeat: no-repeat;
  }
  nav{
     width:71%;
@@ -86,4 +89,8 @@ header{
   color: #757575;
   line-height: 30px;
   margin-bottom: 30px;
+ }
+ #banner .banner-imgage img{
+  width: 585px;
+  vertical-align: middle;
  }
