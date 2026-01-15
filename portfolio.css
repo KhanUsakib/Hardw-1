@@ -57,3 +57,16 @@ header{
     color: #474747;
     text-decoration: none;
  }
+ #banner{
+  border: 1px solid #FF7A00;
+  margin: 47px 38px 230px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+ }
+ #banner .banner-content h2{
+  font-size: 45px;
+  margin-bottom: 5px;
+  font-weight: 600;
+  color: #474747;
+ }
