@@ -59,7 +59,7 @@ header{
  }
  #banner{
   border: 1px solid #FF7A00;
-  margin: 47px 38px 230px;
+  margin: 47px 38px 0px 230px;
   display: flex;
   justify-content: space-between;
   align-items: center;
